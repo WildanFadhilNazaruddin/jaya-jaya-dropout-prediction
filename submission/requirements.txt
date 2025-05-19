@@ -1,0 +1,10 @@
+catboost==1.2.8
+imbalanced_learn==0.13.0
+lightgbm==4.6.0
+matplotlib==3.10.3
+numpy==2.2.6
+pandas==2.2.3
+scikit_learn==1.6.1
+scipy==1.15.3
+seaborn==0.13.2
+streamlit==1.45.1
