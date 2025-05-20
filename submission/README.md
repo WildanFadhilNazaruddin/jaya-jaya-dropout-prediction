@@ -52,14 +52,6 @@ pip install -r requirements.txt
 Buka dan jalankan notebook analisis di:
 
 - `model/model.ipynb`
-
-### Menjalankan Aplikasi Prediksi
-
-Untuk menjalankan aplikasi prediksi berbasis Streamlit:
-```bash
-streamlit run
-```
-
 ---
 
 ## 📊 Business Dashboard
