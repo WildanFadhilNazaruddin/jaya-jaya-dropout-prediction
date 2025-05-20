@@ -68,7 +68,21 @@ Dashboard dibuat menggunakan Metabase untuk membantu manajemen memonitor faktor-
 
 **File database Metabase:**  
 [metabase.db.mv.db](http://_vscodecontentref_/1)
+### Cara Menjalankan Aplikasi Streamlit
 
+#### ✅ Menjalankan Secara Lokal
+
+1. Pastikan environment sudah aktif dan dependensi sudah terinstall.
+2. Jalankan perintah berikut di terminal:
+  ```bash
+  streamlit run app.py
+  ```
+3. Buka browser dan akses: [http://localhost:8501](http://localhost:8501)
+
+#### 🌐 Mengakses Demo Online (Claude)
+
+Aplikasi juga dapat diakses secara online melalui tautan berikut:  
+[https://jaya-jaya-dropout-prediction-ffanpntlcjvxcwzsytrmkc.streamlit.app/](https://jaya-jaya-dropout-prediction-ffanpntlcjvxcwzsytrmkc.streamlit.app/)
 ### Cara Mengakses Dashboard Metabase
 
 #### ✅ Melalui Antarmuka Web (Metabase Lokal dengan Docker)
